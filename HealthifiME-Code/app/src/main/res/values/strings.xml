@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bmi_result">Your BMI Index: %s</string>
+
+    <string name="bmi_suggestion">Suggestion: %s</string>
+    <string name="user_height">Your Height: %s</string>
+    <string name="user_weight">Your Weight: %s</string>
+    <string name="underweight_suggestion">Underweight</string>
+    <string name="normal_weight_suggestion">Normal Weight</string>
+    <string name="overweight_suggestion">Overweight</string>
+    <string name="obese_suggestion">Obese</string>
+
+</resources>
